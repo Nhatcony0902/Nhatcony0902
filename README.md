@@ -1,3 +1,29 @@
+## 💫 About Me:
+
+🔭 I’m currently studying at **Posts and Telecommunications Institute of Technology (PTIT)**  
+🌱 I’m currently learning **Information Technology**  
+
+---
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/longnhat0902)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nhatpham0902)  
+📧 Email: longnhatvn0902@gmail.com
+
+---
+## 💻 Tech Stack:
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?&style=for-the-badge&logo=ant-design&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+
+
+
+
 ## Github Stats 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nhatcony0902)](https://github.com/anuraghazra/github-readme-stats)
 ## Most Used Languages
